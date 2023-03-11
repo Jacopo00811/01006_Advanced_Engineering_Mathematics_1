@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Worksheet>
+<Version major="2016" minor="1"/>
+<Label-Scheme value="2" prefix=""/>
+<View-Properties presentation="false" autoexpanding_sections="true" UserProfileName="Maple Default Profile" NumericFormat-ApplyInteger="true" NumericFormat-ApplyRational="true" NumericFormat-ApplyExponent="false">
+</View-Properties>
+<MapleNet-Properties prettyprint="3" warnlevel="3" preplot="" helpbrowser="standard" contextmenusize="automatic" displayprecision="-1" echo="1" unitattributes="&quot;fontweight&quot; = &quot;bold&quot;" imaginaryunit="I" longdelim="true" elisiontermsthreshold="10000" elisiondigitsafter="100" elisiondigitsbefore="100" plotdevice="inline" errorbreak="1" plotoptions="" plotdriver="opengl" quiet="false" elisiontermsbefore="100" elisiontermsafter="100" screenwidth="79" indentamount="4" plotoutput="terminal" screenpixelheight="1080" rtablesize="10" useclientjvm="true" labelwidth="20" postplot="" typesetting="standard" ansi="false" elisiondigitsthreshold="10000" showassumed="1" errorcursor="false" labelling="true" screenheight="25" prompt="&gt; " verboseproc="1" latexwidth="8.0" ShowLabels="true"/>
+<Styles>
+<Font name="Heading 1" background="[0,0,0]" bold="true" executable="false" family="Times New Roman" foreground="[0,0,0]" italic="false" opaque="false" readonly="false" size="18" subscript="false" superscript="false" underline="false" placeholder="false"/>
+<Font name="Warning" background="[255,255,255]" bold="false" executable="false" family="Monospaced" foreground="[0,0,255]" italic="false" opaque="false" readonly="true" size="12" subscript="false" superscript="false" underline="false" placeholder="false"/>
+<Font name="2D Output" background="[255,255,255]" bold="false" executable="false" family="Times New Roman" foreground="[0,0,255]" italic="false" opaque="false" readonly="true" size="12" subscript="false" superscript="false" underline="false" placeholder="false"/>
+<Font name="Heading 4" background="[255,255,255]" bold="false" executable="false" family="Serif" foreground="[0,0,0]" italic="true" opaque="false" readonly="false" size="12" subscript="false" superscript="false" underline="false" placeholder="false"/>
+<Font name="Line Printed Output" background="[255,255,255]" bold="false" executable="false" family="Monospaced" foreground="[0,0,255]" italic="false" opaque="false" readonly="true" size="12" subscript="false" superscript="false" underline="false" placeholder="false"/>
+<Font name="Heading 2" background="[255,255,255]" bold="true" executable="false" family="Serif" foreground="[0,0,0]" italic="false" opaque="false" readonly="false" size="16" subscript="false" superscript="false" underline="false" placeholder="false"/>
+<Font name="Maple Output" background="[255,255,255]" bold="false" executable="false" family="Times New Roman" foreground="[0,0,0]" italic="false" opaque="false" readonly="false" size="12" subscript="false" superscript="false" underline="false" placeholder="false"/>
+<Font name="2D Inert Output" background="[255,255,255]" bold="false" executable="true" family="Times New Roman" foreground="[144,144,144]" italic="false" opaque="false" readonly="false" size="12" subscript="false" superscript="false" underline="false" placeholder="false"/>
+<Font name="Heading 3" background="[255,255,255]" bold="true" executable="false" family="Serif" foreground="[0,0,0]" italic="true" opaque="false" readonly="false" size="14" subscript="false" superscript="false" underline="false" placeholder="false"/>
+<Font name="Diagnostic" background="[255,255,255]" bold="false" executable="false" family="Monospaced" foreground="[40,120,40]" italic="false" opaque="false" readonly="true" size="12" subscript="false" superscript="false" underline="false" placeholder="false"/>
+<Font name="Ordered List 1" background="[255,255,255]" bold="false" executable="false" family="Times New Roman" foreground="[0,0,0]" italic="false" opaque="false" readonly="false" size="12" subscript="false" superscript="false" underline="false" placeholder="false"/>
+<Font name="Maple Input" background="[0,0,0]" bold="true" executable="true" family="Monospaced" foreground="[255,0,0]" italic="false" opaque="false" readonly="false" size="12" subscript="false" superscript="false" underline="false" placeholder="false"/>
+<Font name="Text Output" background="[255,255,255]" bold="false" executable="false" family="Monospaced" foreground="[0,0,255]" italic="false" opaque="false" readonly="true" size="12" subscript="false" superscript="false" underline="false" placeholder="false"/>
+<Font name="Page Number" background="[0,0,0]" bold="false" executable="false" family="Times New Roman" foreground="[0,0,0]" italic="false" opaque="false" readonly="false" size="12" subscript="false" superscript="false" underline="false" placeholder="false"/>
+<Font name="Ordered List 2" background="[255,255,255]" bold="false" executable="false" family="Times New Roman" foreground="[0,0,0]" italic="false" opaque="false" readonly="false" size="12" subscript="false" superscript="false" underline="false" placeholder="false"/>
+<Font name="Ordered List 3" background="[255,255,255]" bold="false" executable="false" family="Times New Roman" foreground="[0,0,0]" italic="false" opaque="false" readonly="false" size="12" subscript="false" superscript="false" underline="false" placeholder="false"/>
+<Font name="Ordered List 4" background="[255,255,255]" bold="false" executable="false" family="Times New Roman" foreground="[0,0,0]" italic="false" opaque="false" readonly="false" size="12" subscript="false" superscript="false" underline="false" placeholder="false"/>
+<Font name="Ordered List 5" background="[255,255,255]" bold="false" executable="false" family="Times New Roman" foreground="[0,0,0]" italic="false" opaque="false" readonly="false" size="12" subscript="false" superscript="false" underline="false" placeholder="false"/>
+<Font name="Annotation Title" background="[255,255,255]" bold="true" executable="false" family="Times New Roman" foreground="[0,0,0]" italic="false" opaque="false" readonly="false" size="18" subscript="false" superscript="false" underline="false" placeholder="false"/>
+<Font name="Header and Footer" background="[255,255,255]" bold="false" executable="false" family="Times New Roman" foreground="[0,0,0]" italic="false" opaque="false" readonly="false" size="10" subscript="false" superscript="false" underline="false" placeholder="false"/>
+<Font name="HyperlinkError" background="[255,255,255]" bold="false" executable="false" family="Courier New" foreground="[255,0,255]" italic="false" opaque="false" readonly="true" size="12" subscript="false" superscript="false" underline="true" placeholder="false"/>
+<Font name="Atomic Variable" background="[255,255,255]" bold="false" executable="false" family="Times New Roman" foreground="[175,0,175]" italic="true" opaque="false" readonly="false" size="12" subscript="false" superscript="false" underline="false" placeholder="false"/>
+<Font name="HyperlinkWarning" background="[255,255,255]" bold="false" executable="false" family="Courier New" foreground="[0,0,255]" italic="false" opaque="false" readonly="true" size="12" subscript="false" superscript="false" underline="true" placeholder="false"/>
+<Font name="Dictionary Hyperlink" background="[255,255,255]" bold="false" executable="false" family="Serif" foreground="[147,0,15]" italic="false" opaque="false" readonly="false" size="12" subscript="false" superscript="false" underline="true" placeholder="false"/>
+<Font name="2D Math" background="[0,0,0]" bold="false" executable="true" family="Times New Roman" foreground="[0,0,0]" italic="false" opaque="false" readonly="false" size="12" subscript="false" superscript="false" underline="false" placeholder="false"/>
+<Font name="Bullet Item" background="[255,255,255]" bold="false" executable="false" family="Times New Roman" foreground="[0,0,0]" italic="false" opaque="false" readonly="false" size="12" subscript="false" superscript="false" underline="false" placeholder="false"/>
+<Font name="Maple Plot" background="[255,255,255]" bold="false" executable="false" family="Times New Roman" foreground="[0,0,0]" italic="false" opaque="false" readonly="false" size="12" subscript="false" superscript="false" underline="false" placeholder="false"/>
+<Font name="Annotation Text" background="[255,255,255]" bold="false" executable="false" family="Times New Roman" foreground="[0,0,0]" italic="false" opaque="false" readonly="false" size="12" subscript="false" superscript="false" underline="false" placeholder="false"/>
+<Font name="List Item" background="[255,255,255]" bold="false" executable="false" family="Times New Roman" foreground="[0,0,0]" italic="false" opaque="false" readonly="false" size="12" subscript="false" superscript="false" underline="false" placeholder="false"/>
+<Font name="Dash Item" background="[255,255,255]" bold="false" executable="false" family="Times New Roman" foreground="[0,0,0]" italic="false" opaque="false" readonly="false" size="12" subscript="false" superscript="false" underline="false" placeholder="false"/>
+<Font name="2D Input" background="[255,255,255]" bold="false" executable="true" family="Times New Roman" foreground="[0,0,0]" italic="false" opaque="false" readonly="false" size="12" subscript="false" superscript="false" underline="false" placeholder="false"/>
+<Font name="Error" background="[255,255,255]" bold="false" executable="false" family="Monospaced" foreground="[255,0,255]" italic="false" opaque="false" readonly="true" size="12" subscript="false" superscript="false" underline="false" placeholder="false"/>
+<Font name="Title" background="[0,0,0]" bold="true" executable="false" family="Times New Roman" foreground="[0,0,0]" italic="false" opaque="false" readonly="false" size="18" subscript="false" superscript="false" underline="true" placeholder="false"/>
+<Font name="Text" background="[0,0,0]" bold="false" executable="false" family="Times New Roman" foreground="[0,0,0]" italic="false" opaque="false" readonly="false" size="12" subscript="false" superscript="false" underline="false" placeholder="false"/>
+<Font name="Normal" background="[0,0,0]" bold="false" executable="false" family="Times New Roman" foreground="[0,0,0]" italic="false" opaque="false" readonly="false" size="12" subscript="false" superscript="false" underline="false" placeholder="false"/>
+<Font name="Caption Reference" background="[255,255,255]" bold="true" executable="false" family="Times New Roman" foreground="[0,0,0]" italic="false" opaque="false" readonly="false" size="12" subscript="false" superscript="false" underline="false" placeholder="false"/>
+<Font name="Code" background="[255,255,255]" bold="false" executable="false" family="Monospaced" foreground="[255,0,0]" italic="false" opaque="false" readonly="false" size="12" subscript="false" superscript="false" underline="false" placeholder="false"/>
+<Font name="Maple Input Placeholder" background="[255,255,255]" bold="true" executable="true" family="Monospaced" foreground="[200,0,200]" italic="false" opaque="false" readonly="false" size="12" subscript="false" superscript="false" underline="false" placeholder="false"/>
+<Font name="Equation Label" background="[255,255,255]" bold="true" executable="false" family="Monospaced" foreground="[0,0,0]" italic="false" opaque="false" readonly="false" size="12" subscript="false" superscript="false" underline="false" placeholder="false"/>
+<Font name="Author" background="[0,0,0]" bold="false" executable="false" family="Times New Roman" foreground="[0,0,0]" italic="false" opaque="false" readonly="false" size="12" subscript="false" superscript="false" underline="false" placeholder="false"/>
+<Font name="Hyperlink" background="[255,255,255]" bold="false" executable="false" family="Serif" foreground="[0,128,128]" italic="false" opaque="false" readonly="false" size="12" subscript="false" superscript="false" underline="true" placeholder="false"/>
+<Font name="Caption Text" background="[255,255,255]" bold="true" executable="false" family="Times New Roman" foreground="[0,0,0]" italic="false" opaque="false" readonly="false" size="12" subscript="false" superscript="false" underline="false" placeholder="false"/>
+<Layout name="Heading 1" alignment="left" bullet="none" firstindent="0" leftmargin="0" rightmargin="0" linespacing="0.0" spaceabove="6" spacebelow="6" linebreak="space" pagebreak-before="false" initial="0" bulletsuffix=""/>
+<Layout name="Warning" alignment="left" bullet="none" firstindent="0" leftmargin="0" rightmargin="0" linespacing="0.0" spaceabove="0" spacebelow="0" linebreak="space" pagebreak-before="false" initial="0" bulletsuffix=""/>
+<Layout name="Heading 4" alignment="left" bullet="none" firstindent="0" leftmargin="0" rightmargin="0" linespacing="0.0" spaceabove="0" spacebelow="0" linebreak="space" pagebreak-before="false" initial="0" bulletsuffix=""/>
+<Layout name="Line Printed Output" alignment="left" bullet="none" firstindent="0" leftmargin="0" rightmargin="0" linespacing="0.0" spaceabove="0" spacebelow="0" linebreak="any" pagebreak-before="false" initial="0" bulletsuffix=""/>
+<Layout name="Heading 2" alignment="left" bullet="none" firstindent="0" leftmargin="0" rightmargin="0" linespacing="0.0" spaceabove="8" spacebelow="2" linebreak="space" pagebreak-before="false" initial="0" bulletsuffix=""/>
+<Layout name="Maple Output" alignment="centred" bullet="none" firstindent="0" leftmargin="0" rightmargin="0" linespacing="0.3" spaceabove="0" spacebelow="0" linebreak="space" pagebreak-before="false" initial="0" bulletsuffix=""/>
+<Layout name="Heading 3" alignment="left" bullet="none" firstindent="0" leftmargin="0" rightmargin="0" linespacing="0.0" spaceabove="0" spacebelow="0" linebreak="space" pagebreak-before="false" initial="0" bulletsuffix=""/>
+<Layout name="Diagnostic" alignment="left" bullet="none" firstindent="0" leftmargin="0" rightmargin="0" linespacing="0.0" spaceabove="0" spacebelow="0" linebreak="any" pagebreak-before="false" initial="0" bulletsuffix=""/>
+<Layout name="Ordered List 1" alignment="left" bullet="numeric" firstindent="0" leftmargin="0" rightmargin="0" linespacing="0.0" spaceabove="3" spacebelow="3" linebreak="space" pagebreak-before="false" initial="-1" bulletsuffix=""/>
+<Layout name="Text Output" alignment="left" bullet="none" firstindent="0" leftmargin="0" rightmargin="0" linespacing="0.0" spaceabove="0" spacebelow="0" linebreak="newline" pagebreak-before="false" initial="0" bulletsuffix=""/>
+<Layout name="Ordered List 2" alignment="left" bullet="alphabetic" firstindent="0" leftmargin="36" rightmargin="0" linespacing="0.0" spaceabove="3" spacebelow="3" linebreak="space" pagebreak-before="false" initial="-1" bulletsuffix=""/>
+<Layout name="Ordered List 3" alignment="left" bullet="roman" firstindent="0" leftmargin="72" rightmargin="0" linespacing="0.0" spaceabove="3" spacebelow="3" linebreak="space" pagebreak-before="false" initial="-1" bulletsuffix=""/>
+<Layout name="Ordered List 4" alignment="left" bullet="ALPHABETIC" firstindent="0" leftmargin="108" rightmargin="0" linespacing="0.0" spaceabove="3" spacebelow="3" linebreak="space" pagebreak-before="false" initial="-1" bulletsuffix=""/>
+<Layout name="Ordered List 5" alignment="left" bullet="ROMAN" firstindent="0" leftmargin="144" rightmargin="0" linespacing="0.0" spaceabove="3" spacebelow="3" linebreak="space" pagebreak-before="false" initial="-1" bulletsuffix=""/>
+<Layout name="Annotation Title" alignment="centred" bullet="none" firstindent="0" leftmargin="0" rightmargin="0" linespacing="0.0" spaceabove="12" spacebelow="12" linebreak="space" pagebreak-before="false" initial="0" bulletsuffix=""/>
+<Layout name="HyperlinkError" alignment="left" bullet="none" firstindent="0" leftmargin="0" rightmargin="0" linespacing="0.0" spaceabove="0" spacebelow="0" linebreak="space" pagebreak-before="false" initial="0" bulletsuffix=""/>
+<Layout name="HyperlinkWarning" alignment="left" bullet="none" firstindent="0" leftmargin="0" rightmargin="0" linespacing="0.0" spaceabove="0" spacebelow="0" linebreak="space" pagebreak-before="false" initial="0" bulletsuffix=""/>
+<Layout name="Bullet Item" alignment="left" bullet="dot" firstindent="0" leftmargin="0" rightmargin="0" linespacing="0.0" spaceabove="3" spacebelow="3" linebreak="space" pagebreak-before="false" initial="0" bulletsuffix=""/>
+<Layout name="Maple Plot" alignment="centred" bullet="none" firstindent="0" leftmargin="0" rightmargin="0" linespacing="0.0" spaceabove="0" spacebelow="0" linebreak="space" pagebreak-before="false" initial="0" bulletsuffix=""/>
+<Layout name="List Item" alignment="left" bullet="indent" firstindent="0" leftmargin="0" rightmargin="0" linespacing="0.0" spaceabove="3" spacebelow="3" linebreak="space" pagebreak-before="false" initial="0" bulletsuffix=""/>
+<Layout name="Dash Item" alignment="left" bullet="dash" firstindent="0" leftmargin="0" rightmargin="0" linespacing="0.0" spaceabove="3" spacebelow="3" linebreak="space" pagebreak-before="false" initial="0" bulletsuffix=""/>
+<Layout name="Error" alignment="left" bullet="none" firstindent="0" leftmargin="0" rightmargin="0" linespacing="0.0" spaceabove="0" spacebelow="0" linebreak="space" pagebreak-before="false" initial="0" bulletsuffix=""/>
+<Layout name="Title" alignment="centred" bullet="none" firstindent="0" leftmargin="0" rightmargin="0" linespacing="0.0" spaceabove="12" spacebelow="12" linebreak="space" pagebreak-before="false" initial="0" bulletsuffix=""/>
+<Layout name="Normal" alignment="left" bullet="none" firstindent="0" leftmargin="0" rightmargin="0" linespacing="0.0" spaceabove="0" spacebelow="0" linebreak="space" pagebreak-before="false" initial="0" bulletsuffix=""/>
+<Layout name="Author" alignment="centred" bullet="none" firstindent="0" leftmargin="0" rightmargin="0" linespacing="0.0" spaceabove="8" spacebelow="8" linebreak="space" pagebreak-before="false" initial="0" bulletsuffix=""/>
+<Pencil-style name="Pencil 1" pen-color="[0,0,0]" pen-height="1.0" pen-width="1.0" pen-opacity="1.0"/>
+<Pencil-style name="Pencil 2" pen-color="[0,0,255]" pen-height="1.0" pen-width="1.0" pen-opacity="1.0"/>
+<Pencil-style name="Pencil 3" pen-color="[0,0,0]" pen-height="3.0" pen-width="3.0" pen-opacity="1.0"/>
+<Pencil-style name="Pencil 4" pen-color="[0,0,255]" pen-height="3.0" pen-width="3.0" pen-opacity="1.0"/>
+<Pencil-style name="Pencil 5" pen-color="[255,0,0]" pen-height="5.0" pen-width="5.0" pen-opacity="1.0"/>
+<Highlighter-style name="Highlighter 5" pen-color="[255,255,0]" pen-height="48.0" pen-width="48.0" pen-opacity="0.8"/>
+<Highlighter-style name="Highlighter 3" pen-color="[51,255,0]" pen-height="24.0" pen-width="24.0" pen-opacity="0.8"/>
+<Highlighter-style name="Highlighter 4" pen-color="[0,255,255]" pen-height="32.0" pen-width="32.0" pen-opacity="0.8"/>
+<Highlighter-style name="Highlighter 1" pen-color="[255,153,255]" pen-height="12.0" pen-width="8.0" pen-opacity="0.8"/>
+<Highlighter-style name="Highlighter 2" pen-color="[255,204,0]" pen-height="14.0" pen-width="14.0" pen-opacity="0.8"/>
+</Styles>
+<Startup-Code startupcode=""/>
+<Footer left-content="" center-content="" right-content="&amp;[Page]" left-image-scale-width="100" center-image-scale-width="100" right-image-scale-width="100" left-image-scale-height="100" center-image-scale-height="100" right-image-scale-height="100" date-format="2" selected-index="0" first-number="1" first-numbered-page="1"/>
+<Task-table>
+    <Task-category name="&lt;default&gt;"/>
+</Task-table>
+<Task/>
+<Group labelreference="L3" drawlabel="true">
+<Input><Text-field style="Title" layout="Title">Graphs, Tangent Planes, etc. (basic) <Font style="Author">
+Rev. 18.01.18</Font></Text-field>
+</Input>
+</Group>
+<Section collapsed="true" isCollapsible="true" drawButton="true" MultipleChoiceAnswerIndex="-1" MultipleChoiceRandomizeChoices="false" TrueFalseAnswerIndex="-1" EssayAnswerRows="5" EssayAnswerColumns="60"><Title><Text-field style="Heading 1" layout="Heading 1">Initalization</Text-field></Title>
+<Group hide-output="false" labelreference="L4" drawlabel="true">
+<Input><Text-field prompt="&gt; " style="Maple Input" layout="Normal">restart:
+with(plots):
+vop:=proc(X) op(convert(X,list)) end proc:</Text-field>
+</Input>
+</Group>
+<Group hide-output="false" labelreference="L64" drawlabel="true">
+<Input><Text-field prompt="&gt; " style="Maple Input" layout="Normal"></Text-field>
+</Input>
+</Group>
+</Section>
+<Section collapsed="true" isCollapsible="true" drawButton="true" MultipleChoiceAnswerIndex="-1" MultipleChoiceRandomizeChoices="false" TrueFalseAnswerIndex="-1" EssayAnswerRows="5" EssayAnswerColumns="60"><Title><Text-field style="Heading 1" layout="Heading 1">A Domain</Text-field></Title>
+<Group labelreference="L359" drawlabel="true">
+<Input><Text-field style="Normal" layout="Normal">We wish to define the domain for the function</Text-field>
+</Input>
+</Group>
+<Group hide-input="false" labelreference="L360" drawlabel="true">
+<Input><Text-field prompt="&gt; " style="Maple Input" layout="Normal">f:=(x,y)-&gt;sqrt(y^2-x^2);</Text-field>
+</Input>
+</Group>
+<Group labelreference="L371" drawlabel="true">
+<Input><Text-field style="Text" layout="Normal">The expression inside the root sign is in itself a function of two variables :</Text-field>
+</Input>
+</Group>
+<Group hide-input="false" labelreference="L361" drawlabel="true">
+<Input><Text-field prompt="&gt; " style="Maple Input" layout="Normal">g:=(x,y)-&gt;y^2-x^2;</Text-field>
+</Input>
+</Group>
+<Group labelreference="L362" drawlabel="true">
+<Input><Text-field style="Normal" layout="Normal">It must apply that <Equation executable="false" style="Normal" input-equation="" display="LUklbXJvd0c2Iy9JK21vZHVsZW5hbWVHNiJJLFR5cGVzZXR0aW5nR0koX3N5c2xpYkdGJzYoLUkjbWlHRiQ2JVEiZ0YnLyUnaXRhbGljR1EldHJ1ZUYnLyUsbWF0aHZhcmlhbnRHUSdpdGFsaWNGJy1JKG1mZW5jZWRHRiQ2JC1GIzYmLUYsNiVRInhGJ0YvRjItSSNtb0dGJDYtUSIsRicvRjNRJ25vcm1hbEYnLyUmZmVuY2VHUSZmYWxzZUYnLyUqc2VwYXJhdG9yR0YxLyUpc3RyZXRjaHlHRkUvJSpzeW1tZXRyaWNHRkUvJShsYXJnZW9wR0ZFLyUubW92YWJsZWxpbWl0c0dGRS8lJ2FjY2VudEdGRS8lJ2xzcGFjZUdRJjAuMGVtRicvJSdyc3BhY2VHUSwwLjMzMzMzMzNlbUYnLUYsNiVRInlGJ0YvRjJGQUZBLUY+Ni1RJiZnZXE7RidGQUZDL0ZHRkVGSEZKRkxGTkZQL0ZTUSwwLjI3Nzc3NzhlbUYnL0ZWRmpuLUkjbW5HRiQ2JFEiMEYnRkEtRj42LVEifkYnRkFGQ0ZobkZIRkpGTEZORlBGUi9GVkZURkE=">LUklbXJvd0c2Iy9JK21vZHVsZW5hbWVHNiJJLFR5cGVzZXR0aW5nR0koX3N5c2xpYkdGJzYoLUkjbWlHRiQ2JVEiZ0YnLyUnaXRhbGljR1EldHJ1ZUYnLyUsbWF0aHZhcmlhbnRHUSdpdGFsaWNGJy1JKG1mZW5jZWRHRiQ2JC1GIzYmLUYsNiVRInhGJ0YvRjItSSNtb0dGJDYtUSIsRicvRjNRJ25vcm1hbEYnLyUmZmVuY2VHUSZmYWxzZUYnLyUqc2VwYXJhdG9yR0YxLyUpc3RyZXRjaHlHRkUvJSpzeW1tZXRyaWNHRkUvJShsYXJnZW9wR0ZFLyUubW92YWJsZWxpbWl0c0dGRS8lJ2FjY2VudEdGRS8lJ2xzcGFjZUdRJjAuMGVtRicvJSdyc3BhY2VHUSwwLjMzMzMzMzNlbUYnLUYsNiVRInlGJ0YvRjJGQUZBLUY+Ni1RJiZnZXE7RidGQUZDL0ZHRkVGSEZKRkxGTkZQL0ZTUSwwLjI3Nzc3NzhlbUYnL0ZWRmpuLUkjbW5HRiQ2JFEiMEYnRkEtRj42LVEifkYnRkFGQ0ZobkZIRkpGTEZORlBGUi9GVkZURkE=</Equation><Font style="Text">.</Font> </Text-field>
+</Input>
+</Group>
+<Group labelreference="L374" drawlabel="true">
+<Input><Text-field style="Text" layout="Normal">First we solv  g<Equation executable="false" style="2D Math" input-equation="" display="LUklbXJvd0c2Iy9JK21vZHVsZW5hbWVHNiJJLFR5cGVzZXR0aW5nR0koX3N5c2xpYkdGJzYnLUkobWZlbmNlZEdGJDYlLUYjNictSSNtaUdGJDYmUSJ4RicvJSdpdGFsaWNHUSV0cnVlRicvJStleGVjdXRhYmxlR1EmZmFsc2VGJy8lLG1hdGh2YXJpYW50R1EnaXRhbGljRictSSNtb0dGJDYuUSIsRidGNy9GO1Enbm9ybWFsRicvJSZmZW5jZUdGOS8lKnNlcGFyYXRvckdGNi8lKXN0cmV0Y2h5R0Y5LyUqc3ltbWV0cmljR0Y5LyUobGFyZ2VvcEdGOS8lLm1vdmFibGVsaW1pdHNHRjkvJSdhY2NlbnRHRjkvJSdsc3BhY2VHUSYwLjBlbUYnLyUncnNwYWNlR1EsMC4zMzMzMzMzZW1GJy1GMTYmUSJ5RidGNEY3RjpGN0ZBRjdGQS1GPjYuUSI9RidGN0ZBRkMvRkZGOUZHRklGS0ZNRk8vRlJRLDAuMjc3Nzc3OGVtRicvRlVGaW4tSSNtbkdGJDYlUSIwRidGN0ZBRjdGQQ==">LUklbXJvd0c2Iy9JK21vZHVsZW5hbWVHNiJJLFR5cGVzZXR0aW5nR0koX3N5c2xpYkdGJzYnLUkobWZlbmNlZEdGJDYlLUYjNictSSNtaUdGJDYmUSJ4RicvJSdpdGFsaWNHUSV0cnVlRicvJStleGVjdXRhYmxlR1EmZmFsc2VGJy8lLG1hdGh2YXJpYW50R1EnaXRhbGljRictSSNtb0dGJDYuUSIsRidGNy9GO1Enbm9ybWFsRicvJSZmZW5jZUdGOS8lKnNlcGFyYXRvckdGNi8lKXN0cmV0Y2h5R0Y5LyUqc3ltbWV0cmljR0Y5LyUobGFyZ2VvcEdGOS8lLm1vdmFibGVsaW1pdHNHRjkvJSdhY2NlbnRHRjkvJSdsc3BhY2VHUSYwLjBlbUYnLyUncnNwYWNlR1EsMC4zMzMzMzMzZW1GJy1GMTYmUSJ5RidGNEY3RjpGN0ZBRjdGQS1GPjYuUSI9RidGN0ZBRkMvRkZGOUZHRklGS0ZNRk8vRlJRLDAuMjc3Nzc3OGVtRicvRlVGaW4tSSNtbkdGJDYlUSIwRidGN0ZBRjdGQQ==</Equation>  ( which is equivalent to finding the <Font italic="true">0-level curve</Font> for  <Font italic="true">g </Font>): </Text-field>
+</Input>
+</Group>
+<Group hide-input="false" labelreference="L369" drawlabel="true">
+<Input><Text-field prompt="&gt; " style="Maple Input" layout="Normal">solve(g(x,y),y);</Text-field>
+</Input>
+</Group>
+<Group labelreference="L373" drawlabel="true">
+<Input><Text-field prompt="&gt; " style="Maple Input" layout="Normal">contourplot(g(x,y),x=-2..2,y=-2..2,scaling=constrained,contours=[0],grid=[100,100]);</Text-field>
+</Input>
+</Group>
+<Group labelreference="L370" drawlabel="true">
+<Input><Text-field style="Text" layout="Normal">The two parts of the 0-line for  <Equation executable="false" style="2D Math" input-equation="" display="LUklbXJvd0c2Iy9JK21vZHVsZW5hbWVHNiJJLFR5cGVzZXR0aW5nR0koX3N5c2xpYkdGJzYmLUkjbWlHRiQ2JlEiZ0YnLyUnaXRhbGljR1EldHJ1ZUYnLyUrZXhlY3V0YWJsZUdRJmZhbHNlRicvJSxtYXRodmFyaWFudEdRJ2l0YWxpY0YnLUkobWZlbmNlZEdGJDYlLUYjNictRiw2JlEieEYnRi9GMkY1LUkjbW9HRiQ2LlEiLEYnRjIvRjZRJ25vcm1hbEYnLyUmZmVuY2VHRjQvJSpzZXBhcmF0b3JHRjEvJSlzdHJldGNoeUdGNC8lKnN5bW1ldHJpY0dGNC8lKGxhcmdlb3BHRjQvJS5tb3ZhYmxlbGltaXRzR0Y0LyUnYWNjZW50R0Y0LyUnbHNwYWNlR1EmMC4wZW1GJy8lJ3JzcGFjZUdRLDAuMzMzMzMzM2VtRictRiw2JlEieUYnRi9GMkY1RjJGREYyRkRGMkZE">LUklbXJvd0c2Iy9JK21vZHVsZW5hbWVHNiJJLFR5cGVzZXR0aW5nR0koX3N5c2xpYkdGJzYmLUkjbWlHRiQ2JlEiZ0YnLyUnaXRhbGljR1EldHJ1ZUYnLyUrZXhlY3V0YWJsZUdRJmZhbHNlRicvJSxtYXRodmFyaWFudEdRJ2l0YWxpY0YnLUkobWZlbmNlZEdGJDYlLUYjNictRiw2JlEieEYnRi9GMkY1LUkjbW9HRiQ2LlEiLEYnRjIvRjZRJ25vcm1hbEYnLyUmZmVuY2VHRjQvJSpzZXBhcmF0b3JHRjEvJSlzdHJldGNoeUdGNC8lKnN5bW1ldHJpY0dGNC8lKGxhcmdlb3BHRjQvJS5tb3ZhYmxlbGltaXRzR0Y0LyUnYWNjZW50R0Y0LyUnbHNwYWNlR1EmMC4wZW1GJy8lJ3JzcGFjZUdRLDAuMzMzMzMzM2VtRictRiw2JlEieUYnRi9GMkY1RjJGREYyRkRGMkZE</Equation>  separtates the plane in four fields, We choose a point in each of these:</Text-field>
+</Input>
+</Group>
+<Group hide-input="false" labelreference="L363" drawlabel="true">
+<Input><Text-field prompt="&gt; " style="Maple Input" layout="Normal">g(1,0);
+g(0,1);
+g(-1,0);
+g(0,-1);</Text-field>
+</Input>
+</Group>
+<Group labelreference="L372" drawlabel="true">
+<Input><Text-field style="Text" layout="Normal">Since  <Font italic="true">g </Font> is continuous it must in each of the af de fout felds have a constant sign .</Text-field>
+</Input>
+</Group>
+<Group labelreference="L365" drawlabel="true">
+<Input><Text-field style="Text" layout="Normal">
+Now we can draw the wanted domain for  <Font italic="true">f   </Font>(yellow) :  </Text-field>
+</Input>
+</Group>
+<Group labelreference="L364" drawlabel="true">
+<Input><Text-field prompt="&gt; " style="Maple Input" layout="Normal">contourplot(g(x,y),x=-2..2,y=-2..2,scaling=constrained,contours=[0],filled=true,coloring=[white,yellow],grid=[100,100]);</Text-field>
+</Input>
+</Group>
+<Group labelreference="L366" drawlabel="true">
+<Input><Text-field style="Text" layout="Normal"><Font bold="true">NB :  </Font>Dm( <Font italic="true">f </Font>) is <Font underline="true">closed</Font>  (it contains all of its <Font italic="true">boundary</Font>) and  <Font underline="true">unbounded</Font>  (it cannot be contained in a circle).</Text-field>
+</Input>
+</Group>
+<Group labelreference="L375" drawlabel="true">
+<Input><Text-field prompt="&gt; " style="Maple Input" layout="Normal"></Text-field>
+</Input>
+</Group>
+</Section>
+<Section collapsed="true" isCollapsible="true" drawButton="true" MultipleChoiceAnswerIndex="-1" MultipleChoiceRandomizeChoices="false" TrueFalseAnswerIndex="-1" EssayAnswerRows="5" EssayAnswerColumns="60"><Title><Text-field style="Heading 1" layout="Heading 1">Approximating first-Degree Polynomial and Tangent Plane</Text-field></Title>
+<Group labelreference="L218" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal">We define a function of two variables</Text-field>
+</Input>
+</Group>
+<Group hide-input="false" hide-output="false" labelreference="L20" drawlabel="true">
+<Input><Text-field prompt="&gt; " style="Maple Input" layout="Normal">f:= (x, y)-&gt; 4-x^2-y^2;</Text-field>
+</Input>
+</Group>
+<Group labelreference="L21" drawlabel="true">
+<Input><Text-field style="Normal" layout="Normal">The graph for the function is a paraboloid  </Text-field>
+</Input>
+</Group>
+<Group hide-output="false" labelreference="L22" drawlabel="true">
+<Input><Text-field prompt="&gt; " style="Maple Input" layout="Normal">graf:= plot3d(f(x,y), x=-2...2, y=-2..2,axes=box,orientation=[-75,75]):</Text-field>
+</Input>
+</Group>
+<Group hide-input="false" hide-output="false" labelreference="L23" drawlabel="true">
+<Input><Text-field prompt="&gt; " style="Maple Input" layout="Normal">display(graf,view=0..4,scaling=constrained);</Text-field>
+</Input>
+</Group>
+<Group hide-output="false" labelreference="L235" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal">We will state the  <Font italic="true">approksimating first-degree polynomial</Font> for  <Font italic="true">f</Font>  with the development point <Equation executable="false" style="2D Math" input-equation="" display="LUklbXJvd0c2Iy9JK21vZHVsZW5hbWVHNiJJLFR5cGVzZXR0aW5nR0koX3N5c2xpYkdGJzYpLUkjbWlHRiQ2JlEiQUYnLyUnaXRhbGljR1EldHJ1ZUYnLyUrZXhlY3V0YWJsZUdRJmZhbHNlRicvJSxtYXRodmFyaWFudEdRJ2l0YWxpY0YnLUkjbW9HRiQ2LlEiPUYnRjIvRjZRJ25vcm1hbEYnLyUmZmVuY2VHRjQvJSpzZXBhcmF0b3JHRjQvJSlzdHJldGNoeUdGNC8lKnN5bW1ldHJpY0dGNC8lKGxhcmdlb3BHRjQvJS5tb3ZhYmxlbGltaXRzR0Y0LyUnYWNjZW50R0Y0LyUnbHNwYWNlR1EsMC4yNzc3Nzc4ZW1GJy8lJ3JzcGFjZUdGTi1JKG1mZW5jZWRHRiQ2JS1GIzYpLUkjbW5HRiQ2JVEiMUYnRjJGPC1GOTYuUSIsRidGMkY8Rj4vRkFGMUZCRkRGRkZIRkovRk1RJjAuMGVtRicvRlBRLDAuMzMzMzMzM2VtRictRjk2LlEqJnVtaW51czA7RidGMkY8Rj5GQEZCRkRGRkZIRkovRk1RLDAuMjIyMjIyMmVtRicvRlBGYG9GVi8lK2JhY2tncm91bmRHUS5bMjU1LDI1NSwyNTVdRidGMkY8RjJGPC1GOTYuUSIuRidGMkY8Rj5GQEZCRkRGRkZIRkpGaG4vRlBGaW5GYm9GMkY8">LUklbXJvd0c2Iy9JK21vZHVsZW5hbWVHNiJJLFR5cGVzZXR0aW5nR0koX3N5c2xpYkdGJzYpLUkjbWlHRiQ2JlEiQUYnLyUnaXRhbGljR1EldHJ1ZUYnLyUrZXhlY3V0YWJsZUdRJmZhbHNlRicvJSxtYXRodmFyaWFudEdRJ2l0YWxpY0YnLUkjbW9HRiQ2LlEiPUYnRjIvRjZRJ25vcm1hbEYnLyUmZmVuY2VHRjQvJSpzZXBhcmF0b3JHRjQvJSlzdHJldGNoeUdGNC8lKnN5bW1ldHJpY0dGNC8lKGxhcmdlb3BHRjQvJS5tb3ZhYmxlbGltaXRzR0Y0LyUnYWNjZW50R0Y0LyUnbHNwYWNlR1EsMC4yNzc3Nzc4ZW1GJy8lJ3JzcGFjZUdGTi1JKG1mZW5jZWRHRiQ2JS1GIzYpLUkjbW5HRiQ2JVEiMUYnRjJGPC1GOTYuUSIsRidGMkY8Rj4vRkFGMUZCRkRGRkZIRkovRk1RJjAuMGVtRicvRlBRLDAuMzMzMzMzM2VtRictRjk2LlEqJnVtaW51czA7RidGMkY8Rj5GQEZCRkRGRkZIRkovRk1RLDAuMjIyMjIyMmVtRicvRlBGYG9GVi8lK2JhY2tncm91bmRHUS5bMjU1LDI1NSwyNTVdRidGMkY8RjJGPC1GOTYuUSIuRidGMkY8Rj5GQEZCRkRGRkZIRkpGaG4vRlBGaW5GYm9GMkY8</Equation></Text-field>
+</Input>
+</Group>
+<Group hide-output="false" labelreference="L234" drawlabel="true">
+<Input><Text-field style="Text" layout="Normal">The partial derivatives of <Equation executable="false" style="2D Math" input-equation="" display="LUklbXJvd0c2Iy9JK21vZHVsZW5hbWVHNiJJLFR5cGVzZXR0aW5nR0koX3N5c2xpYkdGJzYlLUkjbWlHRiQ2JlEiZkYnLyUnaXRhbGljR1EldHJ1ZUYnLyUrZXhlY3V0YWJsZUdRJmZhbHNlRicvJSxtYXRodmFyaWFudEdRJ2l0YWxpY0YnRjIvRjZRJ25vcm1hbEYn">LUklbXJvd0c2Iy9JK21vZHVsZW5hbWVHNiJJLFR5cGVzZXR0aW5nR0koX3N5c2xpYkdGJzYlLUkjbWlHRiQ2JlEiZkYnLyUnaXRhbGljR1EldHJ1ZUYnLyUrZXhlY3V0YWJsZUdRJmZhbHNlRicvJSxtYXRodmFyaWFudEdRJ2l0YWxpY0YnRjIvRjZRJ25vcm1hbEYn</Equation>  i n <Font italic="true">A</Font>  with respect to <Equation executable="false" style="2D Math" input-equation="" display="LUklbXJvd0c2Iy9JK21vZHVsZW5hbWVHNiJJLFR5cGVzZXR0aW5nR0koX3N5c2xpYkdGJzYlLUkjbWlHRiQ2JlEieEYnLyUnaXRhbGljR1EldHJ1ZUYnLyUrZXhlY3V0YWJsZUdRJmZhbHNlRicvJSxtYXRodmFyaWFudEdRJ2l0YWxpY0YnRjIvRjZRJ25vcm1hbEYn">LUklbXJvd0c2Iy9JK21vZHVsZW5hbWVHNiJJLFR5cGVzZXR0aW5nR0koX3N5c2xpYkdGJzYlLUkjbWlHRiQ2JlEieEYnLyUnaXRhbGljR1EldHJ1ZUYnLyUrZXhlY3V0YWJsZUdRJmZhbHNlRicvJSxtYXRodmFyaWFudEdRJ2l0YWxpY0YnRjIvRjZRJ25vcm1hbEYn</Equation> and<Font style="2D Math"> </Font><Equation executable="false" style="2D Math" input-equation="" display="LUklbXJvd0c2Iy9JK21vZHVsZW5hbWVHNiJJLFR5cGVzZXR0aW5nR0koX3N5c2xpYkdGJzYlLUkjbWlHRiQ2JlEieUYnLyUnaXRhbGljR1EldHJ1ZUYnLyUrZXhlY3V0YWJsZUdRJmZhbHNlRicvJSxtYXRodmFyaWFudEdRJ2l0YWxpY0YnRjIvRjZRJ25vcm1hbEYn">LUklbXJvd0c2Iy9JK21vZHVsZW5hbWVHNiJJLFR5cGVzZXR0aW5nR0koX3N5c2xpYkdGJzYlLUkjbWlHRiQ2JlEieUYnLyUnaXRhbGljR1EldHJ1ZUYnLyUrZXhlY3V0YWJsZUdRJmZhbHNlRicvJSxtYXRodmFyaWFudEdRJ2l0YWxpY0YnRjIvRjZRJ25vcm1hbEYn</Equation>  thus enters into the approximating polynomial:</Text-field>
+</Input>
+</Group>
+<Group hide-input="false" hide-output="false" labelreference="L233" drawlabel="true">
+<Input><Text-field prompt="&gt; " style="Maple Input" layout="Normal">P1:=(x,y)-&gt;f(1,-1)+D[1](f)(1,-1)*(x-1)+D[2](f)(1,-1)*(y+1);</Text-field>
+</Input>
+</Group>
+<Group labelreference="L232" drawlabel="true">
+<Input><Text-field style="Text" layout="Normal">or computed:</Text-field>
+</Input>
+</Group>
+<Group hide-input="false" hide-output="false" labelreference="L231" drawlabel="true">
+<Input><Text-field prompt="&gt; " style="Maple Input" layout="Normal">P1(x,y);</Text-field>
+</Input>
+</Group>
+<Group hide-input="false" hide-output="false" labelreference="L230" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal">The tangent plane for the graph for  <Font italic="true">f </Font> in the point R = <Equation executable="true" style="2D Math" input-equation="1, -1, f(1, -1)" display="LUklbXJvd0c2Iy9JK21vZHVsZW5hbWVHNiJJLFR5cGVzZXR0aW5nR0koX3N5c2xpYkdGJzYmLUkobWZlbmNlZEdGJDYkLUYjNi4tSSNtbkdGJDYkUSIxRicvJSxtYXRodmFyaWFudEdRJ25vcm1hbEYnLUkjbW9HRiQ2LVEiLEYnRjQvJSZmZW5jZUdRJmZhbHNlRicvJSpzZXBhcmF0b3JHUSV0cnVlRicvJSlzdHJldGNoeUdGPS8lKnN5bW1ldHJpY0dGPS8lKGxhcmdlb3BHRj0vJS5tb3ZhYmxlbGltaXRzR0Y9LyUnYWNjZW50R0Y9LyUnbHNwYWNlR1EmMC4wZW1GJy8lJ3JzcGFjZUdRLDAuMzMzMzMzM2VtRictRjg2LVEqJnVtaW51czA7RidGNEY7L0Y/Rj1GQUZDRkVGR0ZJL0ZMUSwwLjIyMjIyMjJlbUYnL0ZPRlZGMEY3LUY4Ni1RIn5GJ0Y0RjtGVEZBRkNGRUZHRklGSy9GT0ZNRlgtSSNtaUdGJDYlUSJmRicvJSdpdGFsaWNHRkAvRjVRJ2l0YWxpY0YnLUYsNiQtRiM2KEYwRjdGUUYwLyUrZXhlY3V0YWJsZUdGPUY0RjQtRmduNiNRIUYnRmJvRjRGNEZYRmJvRjQ=">NiUiIiIhIiItSSJmRzYiNiRGI0Yk</Equation>is the same as the graph for  P1(x,y). <Equation executable="true" style="2D Math" input-equation="" display="LUklbXJvd0c2Iy9JK21vZHVsZW5hbWVHNiJJLFR5cGVzZXR0aW5nR0koX3N5c2xpYkdGJzYmLUkjbWlHRiQ2I1EhRicvJStiYWNrZ3JvdW5kR1EuWzI1NSwyNTUsMjU1XUYnLyUrZXhlY3V0YWJsZUdRJmZhbHNlRicvJSxtYXRodmFyaWFudEdRJ25vcm1hbEYn">LUklbXJvd0c2Iy9JK21vZHVsZW5hbWVHNiJJLFR5cGVzZXR0aW5nR0koX3N5c2xpYkdGJzYjLUkjbWlHRiQ2I1EhRic=</Equation></Text-field>
+</Input>
+</Group>
+<Group hide-output="false" labelreference="L246" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal">Therefore the tangent plane has the equation  <Equation executable="false" style="2D Math" input-equation="" display="LUklbXJvd0c2Iy9JK21vZHVsZW5hbWVHNiJJLFR5cGVzZXR0aW5nR0koX3N5c2xpYkdGJzYxLUkjbWlHRiQ2JlEiekYnLyUnaXRhbGljR1EldHJ1ZUYnLyUrZXhlY3V0YWJsZUdRJmZhbHNlRicvJSxtYXRodmFyaWFudEdRJ2l0YWxpY0YnLUkjbW9HRiQ2LlEiPUYnRjIvRjZRJ25vcm1hbEYnLyUmZmVuY2VHRjQvJSpzZXBhcmF0b3JHRjQvJSlzdHJldGNoeUdGNC8lKnN5bW1ldHJpY0dGNC8lKGxhcmdlb3BHRjQvJS5tb3ZhYmxlbGltaXRzR0Y0LyUnYWNjZW50R0Y0LyUnbHNwYWNlR1EsMC4yNzc3Nzc4ZW1GJy8lJ3JzcGFjZUdGTi1JI21uR0YkNiVRIjZGJ0YyRjwtRjk2LlEoJm1pbnVzO0YnRjJGPEY+RkBGQkZERkZGSEZKL0ZNUSwwLjIyMjIyMjJlbUYnL0ZQRlktRlI2JVEiMkYnRjJGPC1GOTYuUSJ+RidGMkY8Rj5GQEZCRkRGRkZIRkovRk1RJjAuMGVtRicvRlBGXG8tRiw2JlEieEYnRi9GMkY1LUY5Ni5RIitGJ0YyRjxGPkZARkJGREZGRkhGSkZYRlpGZW5GaG4tRiw2JlEieUYnRi9GMkY1RmhuLyUrYmFja2dyb3VuZEdRLlsyNTUsMjU1LDI1NV1GJ0YyRjw=">LUklbXJvd0c2Iy9JK21vZHVsZW5hbWVHNiJJLFR5cGVzZXR0aW5nR0koX3N5c2xpYkdGJzYxLUkjbWlHRiQ2JlEiekYnLyUnaXRhbGljR1EldHJ1ZUYnLyUrZXhlY3V0YWJsZUdRJmZhbHNlRicvJSxtYXRodmFyaWFudEdRJ2l0YWxpY0YnLUkjbW9HRiQ2LlEiPUYnRjIvRjZRJ25vcm1hbEYnLyUmZmVuY2VHRjQvJSpzZXBhcmF0b3JHRjQvJSlzdHJldGNoeUdGNC8lKnN5bW1ldHJpY0dGNC8lKGxhcmdlb3BHRjQvJS5tb3ZhYmxlbGltaXRzR0Y0LyUnYWNjZW50R0Y0LyUnbHNwYWNlR1EsMC4yNzc3Nzc4ZW1GJy8lJ3JzcGFjZUdGTi1JI21uR0YkNiVRIjZGJ0YyRjwtRjk2LlEoJm1pbnVzO0YnRjJGPEY+RkBGQkZERkZGSEZKL0ZNUSwwLjIyMjIyMjJlbUYnL0ZQRlktRlI2JVEiMkYnRjJGPC1GOTYuUSJ+RidGMkY8Rj5GQEZCRkRGRkZIRkovRk1RJjAuMGVtRicvRlBGXG8tRiw2JlEieEYnRi9GMkY1LUY5Ni5RIitGJ0YyRjxGPkZARkJGREZGRkhGSkZYRlpGZW5GaG4tRiw2JlEieUYnRi9GMkY1RmhuLyUrYmFja2dyb3VuZEdRLlsyNTUsMjU1LDI1NV1GJ0YyRjw=</Equation>that can also be written <Equation executable="false" style="2D Math" input-equation="" display="LUklbXJvd0c2Iy9JK21vZHVsZW5hbWVHNiJJLFR5cGVzZXR0aW5nR0koX3N5c2xpYkdGJzYwLUkjbW5HRiQ2JVEiMkYnLyUrZXhlY3V0YWJsZUdRJmZhbHNlRicvJSxtYXRodmFyaWFudEdRJ25vcm1hbEYnLUkjbW9HRiQ2LlEifkYnRi9GMi8lJmZlbmNlR0YxLyUqc2VwYXJhdG9yR0YxLyUpc3RyZXRjaHlHRjEvJSpzeW1tZXRyaWNHRjEvJShsYXJnZW9wR0YxLyUubW92YWJsZWxpbWl0c0dGMS8lJ2FjY2VudEdGMS8lJ2xzcGFjZUdRJjAuMGVtRicvJSdyc3BhY2VHRkktSSNtaUdGJDYmUSJ4RicvJSdpdGFsaWNHUSV0cnVlRidGLy9GM1EnaXRhbGljRictRjY2LlEoJm1pbnVzO0YnRi9GMkY5RjtGPUY/RkFGQ0ZFL0ZIUSwwLjIyMjIyMjJlbUYnL0ZLRllGK0Y1LUZNNiZRInlGJ0ZQRi9GUy1GNjYuUSIrRidGL0YyRjlGO0Y9Rj9GQUZDRkVGWEZaLUZNNiZRInpGJ0ZQRi9GUy1GNjYuUSI9RidGL0YyRjlGO0Y9Rj9GQUZDRkUvRkhRLDAuMjc3Nzc3OGVtRicvRktGYm8tRiw2JVEjNi5GJ0YvRjIvJStiYWNrZ3JvdW5kR1EuWzI1NSwyNTUsMjU1XUYnRi9GMg==">LUklbXJvd0c2Iy9JK21vZHVsZW5hbWVHNiJJLFR5cGVzZXR0aW5nR0koX3N5c2xpYkdGJzYwLUkjbW5HRiQ2JVEiMkYnLyUrZXhlY3V0YWJsZUdRJmZhbHNlRicvJSxtYXRodmFyaWFudEdRJ25vcm1hbEYnLUkjbW9HRiQ2LlEifkYnRi9GMi8lJmZlbmNlR0YxLyUqc2VwYXJhdG9yR0YxLyUpc3RyZXRjaHlHRjEvJSpzeW1tZXRyaWNHRjEvJShsYXJnZW9wR0YxLyUubW92YWJsZWxpbWl0c0dGMS8lJ2FjY2VudEdGMS8lJ2xzcGFjZUdRJjAuMGVtRicvJSdyc3BhY2VHRkktSSNtaUdGJDYmUSJ4RicvJSdpdGFsaWNHUSV0cnVlRidGLy9GM1EnaXRhbGljRictRjY2LlEoJm1pbnVzO0YnRi9GMkY5RjtGPUY/RkFGQ0ZFL0ZIUSwwLjIyMjIyMjJlbUYnL0ZLRllGK0Y1LUZNNiZRInlGJ0ZQRi9GUy1GNjYuUSIrRidGL0YyRjlGO0Y9Rj9GQUZDRkVGWEZaLUZNNiZRInpGJ0ZQRi9GUy1GNjYuUSI9RidGL0YyRjlGO0Y9Rj9GQUZDRkUvRkhRLDAuMjc3Nzc3OGVtRicvRktGYm8tRiw2JVEjNi5GJ0YvRjIvJStiYWNrZ3JvdW5kR1EuWzI1NSwyNTUsMjU1XUYnRi9GMg==</Equation></Text-field>
+</Input>
+</Group>
+<Group hide-output="false" labelreference="L47" drawlabel="true">
+<Input><Text-field style="Text" layout="Normal">From the last equationa normal vector for the tangent plane can be read:  <Equation executable="false" style="2D Math" input-equation="" display="LUklbXJvd0c2Iy9JK21vZHVsZW5hbWVHNiJJLFR5cGVzZXR0aW5nR0koX3N5c2xpYkdGJzYpLUkjbWlHRiQ2JlEiTkYnLyUnaXRhbGljR1EldHJ1ZUYnLyUrZXhlY3V0YWJsZUdRJmZhbHNlRicvJSxtYXRodmFyaWFudEdRJ2l0YWxpY0YnLUkjbW9HRiQ2LlEiPUYnRjIvRjZRJ25vcm1hbEYnLyUmZmVuY2VHRjQvJSpzZXBhcmF0b3JHRjQvJSlzdHJldGNoeUdGNC8lKnN5bW1ldHJpY0dGNC8lKGxhcmdlb3BHRjQvJS5tb3ZhYmxlbGltaXRzR0Y0LyUnYWNjZW50R0Y0LyUnbHNwYWNlR1EsMC4yNzc3Nzc4ZW1GJy8lJ3JzcGFjZUdGTi1JKG1mZW5jZWRHRiQ2JS1GIzYrLUkjbW5HRiQ2JVEiMkYnRjJGPC1GOTYuUSIsRidGMkY8Rj4vRkFGMUZCRkRGRkZIRkovRk1RJjAuMGVtRicvRlBRLDAuMzMzMzMzM2VtRictRjk2LlEqJnVtaW51czA7RidGMkY8Rj5GQEZCRkRGRkZIRkovRk1RLDAuMjIyMjIyMmVtRicvRlBGYG9GVkZaLUZXNiVRIjFGJ0YyRjwvJStiYWNrZ3JvdW5kR1EuWzI1NSwyNTUsMjU1XUYnRjJGPEYyRjwtRjk2LlEiLkYnRjJGPEY+RkBGQkZERkZGSEZKRmhuL0ZQRmluRmVvRjJGPA==">LUklbXJvd0c2Iy9JK21vZHVsZW5hbWVHNiJJLFR5cGVzZXR0aW5nR0koX3N5c2xpYkdGJzYpLUkjbWlHRiQ2JlEiTkYnLyUnaXRhbGljR1EldHJ1ZUYnLyUrZXhlY3V0YWJsZUdRJmZhbHNlRicvJSxtYXRodmFyaWFudEdRJ2l0YWxpY0YnLUkjbW9HRiQ2LlEiPUYnRjIvRjZRJ25vcm1hbEYnLyUmZmVuY2VHRjQvJSpzZXBhcmF0b3JHRjQvJSlzdHJldGNoeUdGNC8lKnN5bW1ldHJpY0dGNC8lKGxhcmdlb3BHRjQvJS5tb3ZhYmxlbGltaXRzR0Y0LyUnYWNjZW50R0Y0LyUnbHNwYWNlR1EsMC4yNzc3Nzc4ZW1GJy8lJ3JzcGFjZUdGTi1JKG1mZW5jZWRHRiQ2JS1GIzYrLUkjbW5HRiQ2JVEiMkYnRjJGPC1GOTYuUSIsRidGMkY8Rj4vRkFGMUZCRkRGRkZIRkovRk1RJjAuMGVtRicvRlBRLDAuMzMzMzMzM2VtRictRjk2LlEqJnVtaW51czA7RidGMkY8Rj5GQEZCRkRGRkZIRkovRk1RLDAuMjIyMjIyMmVtRicvRlBGYG9GVkZaLUZXNiVRIjFGJ0YyRjwvJStiYWNrZ3JvdW5kR1EuWzI1NSwyNTUsMjU1XUYnRjJGPEYyRjwtRjk2LlEiLkYnRjJGPEY+RkBGQkZERkZGSEZKRmhuL0ZQRmluRmVvRjJGPA==</Equation></Text-field>
+</Input>
+</Group>
+<Group labelreference="L248" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal">Let us draw the tangent plane  with everything.</Text-field>
+</Input>
+</Group>
+<Group labelreference="L249" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal">First thepoint of tangency is entered and the normal vector</Text-field>
+</Input>
+</Group>
+<Group hide-input="false" hide-output="false" labelreference="L247" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field prompt="&gt; " style="Maple Input" layout="Normal">R:=&lt;1,-1,f(1,-1)&gt;;
+N:=&lt;2,-2,1&gt;;</Text-field>
+</Input>
+</Group>
+<Group labelreference="L180" drawlabel="true">
+<Input><Text-field style="Text" layout="Normal">Plot commands:</Text-field>
+</Input>
+</Group>
+<Group hide-output="false" labelreference="L162" drawlabel="true">
+<Input><Text-field prompt="&gt; " style="Maple Input" layout="Normal">punkt:=plottools[sphere]([1,-1,2],0.15,style=patchnogrid,color=green):
+tangentplan:=plot3d(P1(x,y),x=-2...2, y=-2..2,style=patchnogrid,color=yellow,transparency=0.5):
+Nplot:=arrow(R,N,scaling=constrained,color=red):</Text-field>
+</Input>
+</Group>
+<Group hide-output="false" labelreference="L40" drawlabel="true">
+<Input><Text-field prompt="&gt; " style="Maple Input" layout="Normal">display(graf,punkt,tangentplan,Nplot,view=0..4);</Text-field>
+</Input>
+</Group>
+<Group labelreference="L217" drawlabel="true">
+<Input><Text-field prompt="&gt; " style="Maple Input" layout="Normal"></Text-field>
+</Input>
+</Group>
+</Section>
+<Section collapsed="true" isCollapsible="true" drawButton="true" MultipleChoiceAnswerIndex="-1" MultipleChoiceRandomizeChoices="false" TrueFalseAnswerIndex="-1" EssayAnswerRows="5" EssayAnswerColumns="60"><Title><Text-field style="Heading 1" layout="Heading 1">An Altitude function</Text-field></Title>
+<Group labelreference="L557" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal">A funtcion of two variables:</Text-field>
+</Input>
+</Group>
+<Group hide-input="false" hide-output="false" labelreference="L377" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field prompt="&gt; " style="Maple Input" layout="Normal">f:=(x,y)-&gt;1/10*x^2+1/10*y^2+10;</Text-field>
+</Input>
+</Group>
+<Group labelreference="L558" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal">A parametrized curve in the (x,y)-plane:</Text-field>
+</Input>
+</Group>
+<Group hide-output="false" labelreference="L402" drawlabel="true">
+<Input><Text-field prompt="&gt; " style="Maple Input" layout="Normal">r:=u-&gt; &lt;u*cos(u),u*sin(u)&gt;:</Text-field>
+</Input>
+</Group>
+<Group hide-input="false" hide-output="false" labelreference="L401" drawlabel="true">
+<Input><Text-field prompt="&gt; " style="Maple Input" layout="Normal">r(u);</Text-field>
+</Input>
+</Group>
+<Group labelreference="L559" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal">The altitude function:</Text-field>
+</Input>
+</Group>
+<Group hide-output="false" labelreference="L456" drawlabel="true">
+<Input><Text-field prompt="&gt; " style="Maple Input" layout="Normal">h:=u-&gt;f(vop(r(u))):</Text-field>
+</Input>
+</Group>
+<Group hide-input="false" hide-output="false" labelreference="L455" drawlabel="true">
+<Input><Text-field prompt="&gt; " style="Maple Input" layout="Normal">h(u):
+simplify(%);</Text-field>
+</Input>
+</Group>
+<Group labelreference="L560" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal">h measures the vertical distance from the curve in the (x,y)-plane to the graph for f. Now se illustrate this in two cases, i.e. for  u=3/2Pi and u=3Pi.</Text-field>
+</Input>
+</Group>
+<Group hide-output="false" labelreference="L466" drawlabel="true">
+<Input><Text-field prompt="&gt; " style="Maple Input" layout="Normal">grafen:=plot3d(f(x,y),x=-13..13,y=-13..13,style=wireframe):</Text-field>
+</Input>
+</Group>
+<Group hide-output="false" labelreference="L464" drawlabel="true">
+<Input><Text-field prompt="&gt; " style="Maple Input" layout="Normal">kurve:=spacecurve(&lt;u*cos(u),u*sin(u),0&gt;,u=0..4*Pi,thickness=6,color=red,numpoints=1000):</Text-field>
+</Input>
+</Group>
+<Group hide-output="false" labelreference="L490" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field prompt="&gt; " style="Maple Input" layout="Normal">u:=3*Pi:
+Pil:=arrow(&lt;u*cos(u),u*sin(u),0&gt;,&lt;0,0,h(u)&gt;,scaling=constrained,color=green):
+punkt:=plottools[sphere]([u*cos(u),u*sin(u),0],1,style=patchnogrid,color=blue):
+u:='u':</Text-field>
+</Input>
+</Group>
+<Group hide-output="false" labelreference="L561" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field prompt="&gt; " style="Maple Input" layout="Normal">u:=3/2*Pi:
+Pil2:=arrow(&lt;u*cos(u),u*sin(u),0&gt;,&lt;0,0,h(u)&gt;,width = [.07, relative],scaling=constrained,color=green):
+punkt2:=plottools[sphere]([u*cos(u),u*sin(u),0],1,style=patchnogrid,color=blue):
+u:='u':</Text-field>
+</Input>
+</Group>
+<Group hide-output="false" labelreference="L468" drawlabel="true">
+<Input><Text-field prompt="&gt; " style="Maple Input" layout="Normal">display(grafen,kurve,punkt,punkt2,Pil,Pil2,orientation=[-120,70],axes=box,tickmarks=[3,3,0]);</Text-field>
+</Input>
+</Group>
+<Group labelreference="L378" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal">The derivative of  h  states the growth rate along the parametrized curve. it can be found by the <Font italic="true">chain rule along curves</Font>, or directly (since we know the expression):</Text-field>
+</Input>
+</Group>
+<Group hide-input="false" hide-output="false" labelreference="L607" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field prompt="&gt; " style="Maple Input" layout="Normal"><Font encoding="UTF-8">h\302\264:=unapply(diff(h(u),u),u);</Font></Text-field>
+</Input>
+</Group>
+<Group labelreference="L610" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal">E.g. in the points mentioned above:</Text-field>
+</Input>
+</Group>
+<Group hide-input="false" hide-output="false" labelreference="L608" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field prompt="&gt; " style="Maple Input" layout="Normal"><Font encoding="UTF-8">h\302\264(3/2*Pi);
+h\302\264(3*Pi);</Font></Text-field>
+</Input>
+</Group>
+<Group labelreference="L609" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field prompt="&gt; " style="Maple Input" layout="Normal"></Text-field>
+</Input>
+</Group>
+</Section><Text-field opaque="false" subscript="false" underline="false" superscript="false" bold="false" foreground="[0,0,0]" italic="false" executable="false" selection-placeholder="false" size="12" readonly="false" background="[255,255,255]" placeholder="false" family="Times New Roman" spaceabove="0" linebreak="space" rightmargin="0" linespacing="0.0" initial="0" firstindent="0" leftmargin="0" bulletsuffix="" alignment="left" bullet="none" spacebelow="0" pagebreak-before="false"></Text-field><Text-field opaque="false" subscript="false" underline="false" superscript="false" bold="false" foreground="[0,0,0]" italic="false" executable="false" selection-placeholder="false" size="12" readonly="false" background="[255,255,255]" placeholder="false" family="Times New Roman" spaceabove="0" linebreak="space" rightmargin="0" linespacing="0.0" initial="0" firstindent="0" leftmargin="0" bulletsuffix="" alignment="left" bullet="none" spacebelow="0" pagebreak-before="false"></Text-field><Text-field opaque="false" subscript="false" underline="false" superscript="false" bold="false" foreground="[0,0,0]" italic="false" executable="false" selection-placeholder="false" size="12" readonly="false" background="[255,255,255]" placeholder="false" family="Times New Roman" spaceabove="0" linebreak="space" rightmargin="0" linespacing="0.0" initial="0" firstindent="0" leftmargin="0" bulletsuffix="" alignment="left" bullet="none" spacebelow="0" pagebreak-before="false"></Text-field><Text-field opaque="false" subscript="false" underline="false" superscript="false" bold="false" foreground="[0,0,0]" italic="false" executable="false" selection-placeholder="false" size="12" readonly="false" background="[255,255,255]" placeholder="false" family="Times New Roman" spaceabove="0" linebreak="space" rightmargin="0" linespacing="0.0" initial="0" firstindent="0" leftmargin="0" bulletsuffix="" alignment="left" bullet="none" spacebelow="0" pagebreak-before="false"></Text-field><Text-field opaque="false" subscript="false" underline="false" superscript="false" bold="false" foreground="[0,0,0]" italic="false" executable="false" selection-placeholder="false" size="12" readonly="false" background="[255,255,255]" placeholder="false" family="Times New Roman" spaceabove="0" linebreak="space" rightmargin="0" linespacing="0.0" initial="0" firstindent="0" leftmargin="0" bulletsuffix="" alignment="left" bullet="none" spacebelow="0" pagebreak-before="false"></Text-field>
+</Worksheet>
